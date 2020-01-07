@@ -22,7 +22,7 @@ Page Preview:
 		<ol>
 			<li>
 			<h4>Data Unit</h4>
-			<img src="ss/admin-unit.jpg">
+			<img src="img/ss/admin-unit.jpg">
 			</li>
 		</ol>
 	</li>
