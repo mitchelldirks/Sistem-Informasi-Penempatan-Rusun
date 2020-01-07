@@ -1,0 +1,21 @@
+.content{
+    margin-top: 100px;
+}
+table, .coba{
+    border-radius: 10px;
+}
+
+.mdl{
+    margin-top: -13px;
+    
+}
+.cnt{
+    background-color: #cfab;
+}
+
+/* DESKTOP VERSION */
+@media (min-width: 992px) {
+    .container .row .mx-auto{
+        width: 30rem;
+    }
+}
