@@ -11,16 +11,16 @@ Lang: Procedural PHP
 	<li>Bagi calon penghuni Rusunawa: dapat mengetahui dengan segera status ketersediaan hunian yang dapat disewa, dan dapat mengetahui jadwal ketersediaan hunian kosong pada perioda berikutnya</li>
 	<li>Bagi pengelola Rusunawa: memudahkan dalam pengelolaan, mempercepat memperoleh informasi yang dibutuhkan, menyediakan sistem pelaporan secara instan, mempercepat pengambilan keputusan</li>
 </p>
+</ul>
 
 Page Preview:
 
-<ol>
+<ul>
 	<li>
 		<h2>Admin</h2>
 		<p>Hak akses dilakukan oleh admin. Dimana admin dapat mengelola Data Unit, Data Warga, Penempatan</p>
-
 	</li>
 	<li>
 		<h2>Admin</h2>
 	</li>
-</ol>
+</ul>
