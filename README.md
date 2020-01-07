@@ -21,9 +21,14 @@ Page Preview:
 		<p>Hak akses dilakukan oleh admin. Dimana admin dapat mengelola Data Unit, Data Warga, Penempatan</p>
 		<ul>
 			<li>
-			<h4>Data Unit</h4>
-			<img src="img/ss/admin-unit.jpg">
-			<p>Menyajikan Data Unit yang sudah disimpan oleh admin. Informasi yang ditampilkan berupa Kode Unit, Blok, Lantai, Nomor, Detail Informasi, dan Harga Sewa</p>
+				<h4>Data Unit</h4>
+				<p>Menyajikan Data Unit yang sudah disimpan oleh admin. Informasi yang ditampilkan berupa Kode Unit, Blok, Lantai, Nomor, Detail Informasi, dan Harga Sewa</p>
+				<img src="img/ss/admin-unit.jpg">
+			</li>
+			<li>
+				<h4>Data Warga</h4>
+				<p>Menyajikan Data Warga yang telah disimpan oleh admin. Informasi yang ditampilkan berupa Kode Unit, Blok, Lantai, Nomor, Detail Informasi, dan Harga Sewa</p>
+				<img src="img/ss/admin-warga.jpg">
 			</li>
 		</ul>
 	</li>
