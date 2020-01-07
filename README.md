@@ -19,7 +19,7 @@ Page Preview:
 	<li>
 		<h2>Admin</h2>
 		<p>Hak akses dilakukan oleh admin. Dimana admin dapat mengelola Data Unit, Data Warga, Penempatan</p>
-		<ol>
+		<ol type="1">
 			<li>
 			<h4>Data Unit</h4>
 			<img src="img/ss/admin-unit.jpg">
