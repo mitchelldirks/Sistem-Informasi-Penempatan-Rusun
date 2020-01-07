@@ -19,12 +19,13 @@ Page Preview:
 	<li>
 		<h2>Admin</h2>
 		<p>Hak akses dilakukan oleh admin. Dimana admin dapat mengelola Data Unit, Data Warga, Penempatan</p>
-		<ol type="1">
+		<ul>
 			<li>
 			<h4>Data Unit</h4>
 			<img src="img/ss/admin-unit.jpg">
+			<p>Menyajikan Data Unit yang sudah disimpan oleh admin. Informasi yang ditampilkan berupa Kode Unit, Blok, Lantai, Nomor, Detail Informasi, dan Harga Sewa</p>
 			</li>
-		</ol>
+		</ul>
 	</li>
 	<li>
 		<h2>User</h2>
