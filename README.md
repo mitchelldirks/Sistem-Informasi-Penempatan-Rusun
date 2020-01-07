@@ -27,8 +27,13 @@ Page Preview:
 			</li>
 			<li>
 				<h4>Data Warga</h4>
-				<p>Menyajikan Data Warga yang telah disimpan oleh admin. Informasi yang ditampilkan berupa Kode Unit, Blok, Lantai, Nomor, Detail Informasi, dan Harga Sewa</p>
+				<p>Menyajikan Data Warga yang telah disimpan oleh admin. Informasi yang ditampilkan berupa Nomor KK, Nomor SP, Nama, TTL, Telp, Nomor Rekening</p>
 				<img src="img/ss/admin-warga.jpg">
+			</li>
+			<li>
+				<h4>Data Penempatan</h4>
+				<p>Menyajikan Penempatan Warga yang telah ditetapkan oleh admin. Informasi yang ditampilkan berupa Nomor Unit, Nama Warga, dan Nomor SP</p>
+				<img src="img/ss/admin-penempatan.jpg">
 			</li>
 		</ul>
 	</li>
