@@ -48,8 +48,13 @@ Page Preview:
 		<ul>
 			<li>
 				<h4>Dashboard</h4>
-				<p>Menyajikan banyaknya unit dan warga yang ada</p>
-				<img src="img/ss/admin-dashboard.jpg">
+				<p>Menyajikan Kartu Warga</p>
+				<img src="img/ss/user-dashboard.jpg">
+			</li>
+			<li>
+				<h4>Informasi</h4>
+				<p>Menyajikan Detail Informasi Pribadi</p>
+				<img src="img/ss/user-info.jpg">
 			</li>
 		</ul>
 	</li>
