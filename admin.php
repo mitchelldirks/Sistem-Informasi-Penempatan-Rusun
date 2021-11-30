@@ -399,7 +399,7 @@ switch ($act) {
                                     $ttl=", ";
                                 }
                                 ?>
-                            	<tr></tr>
+                            	<tr>
                             	<td><?=$row['Nomor_KK']?></td>
                             	<td><?=$row['No_SP']?></td>
                             	<td><?=$row['Nama']?></td>
@@ -747,7 +747,7 @@ elseif ($_GET["page"]=="hunian") {
                                     <td><?= $label ?></td>
                                     <td><?= $masuk ?></td>
                                     <td class="no-print">
-                                        <a id="edit" href="?page=hunian&act=edit&unit=<?=$row[Kode_unit]?>">Ubah</a>
+                                        <a id="edit" href="?page=hunian&act=edit&unit=<?=$row['Kode_unit']?>">Ubah</a>
                                     </td>
                                 </tr>
 
@@ -786,3 +786,10 @@ else{//dashboard?>
 	        </div>
 	    </div>
 <?php } ?>
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+<script src="//cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript">
+    $(document).ready( function () {
+    $('.table').DataTable();
+} );
+</script>
